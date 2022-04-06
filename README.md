@@ -1,0 +1,4 @@
+- 👋 @siulee2
+- I'm a realist
+- I’m interested in distributed system and architecture
+- All blockchain sucks except cosmos and ethereum 
