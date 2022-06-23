@@ -1,4 +1,5 @@
 - 👋 @siulee2
 - I'm a realist
 - I’m interested in distributed system and architecture
-- All blockchain sucks except cosmos and ethereum 
+- All blockchain sucks except cosmos, ethereum, solana
+- All bad coins like ripple, ada, etc... should die as soon as possible for future of the blockchain.
